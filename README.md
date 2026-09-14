@@ -72,5 +72,4 @@ The real lesson for me was about the bottom number of a fraction. I had clean da
 
 ## Files
 
-- `Project_1_WorkBook.ipynb` — the whole project: loading, cleaning, charts, and write-up
-```
+- `Project_1_WorkBook.ipynb`
