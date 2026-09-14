@@ -74,5 +74,3 @@ The real lesson for me was about the bottom number of a fraction. I had clean da
 
 - `Project_1_WorkBook.ipynb` — the whole project: loading, cleaning, charts, and write-up
 ```
-
-Then run the cells from top to bottom. It pulls the data live, so you need an internet connection. `pyarrow` is easy to forget and the data pull fails without it.
